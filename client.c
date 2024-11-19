@@ -6,12 +6,11 @@
 /*   By: alearroy <alearroy@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/11 14:10:58 by alearroy          #+#    #+#             */
-/*   Updated: 2024/11/18 17:20:12 by alearroy         ###   ########.fr       */
+/*   Updated: 2024/11/19 12:46:03 by alearroy         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "minitalk.h"
-
 
 int	main(void)
 {
